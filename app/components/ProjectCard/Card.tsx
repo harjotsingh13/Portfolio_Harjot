@@ -23,7 +23,7 @@ export const Card = ({
       className={`relative aspect-[108/69] w-full overflow-hidden rounded-2xl transition-all duration-500 ease-out hover:z-10 group-hover:-translate-y-2 group-hover:shadow-[0_20px_40px_-15px_var(--color-gradient,rgba(0,0,0,0.5))] [&_span]:transition-opacity [&_span]:duration-400 ${reveal ? "reveal-false:[&_span]:opacity-0" : "group relative"}`}
       style={{ "--color-gradient": color } as React.CSSProperties}
     >
-      <div className="h-full w-full scale-[1.02] text-white transition-transform duration-700 ease-out group-hover:scale-110">
+      <div className="h-full w-full scale-[1.05] text-white transition-transform duration-700 ease-out group-hover:scale-110">
         <span
           className={clsx(
             "absolute inset-0 overflow-hidden rounded-2xl opacity-90 contain-strict group-hover:opacity-0 after:absolute after:inset-0 after:z-4 after:rounded-2xl after:duration-200 after:content-['']"
