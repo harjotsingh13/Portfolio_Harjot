@@ -1,0 +1,59 @@
+Harjot Singh  
+Linked In: https://www.linkedin.com/in/harjot19/                                                                       Email:  singhharjot192004@gmail.com  
+GitHub:    https://github.com/harjotsingh13      Mobile:  +91-9161639675  
+SKILLS  
+• Languages : C++,  Python  
+• Frameworks : Pandas, NumPy, Matplotlib, Scikit -Learn, Streamlit, LangChain, Hugging Face  
+• Tools/Platforms : VS Code, Jup yter Notebook, MySQL, Git & GitHub, Google Colab, Power BI, Excel  
+• Soft Skills : Problem -Solving, Adaptability, Team  Collaboration , Communication  
+PROJECTS  
+• ChurnGuard AI | Customer Churn Prediction System  | GitHub  | Live               Mar 25  
+• Built a predictive churn modeling system analyzing 7K+ telecom customer records to identify 
+high-risk users and estimate $1M+ potential revenue at risk for retention strategies.  
+• Applied feature engineering and trained Logistic Regression, Random Forest, and XGBoost 
+models, achieving ~88% accuracy for churn classification and customer risk segmentation.  
+Developed a FastAPI -based ML API enabling real -time churn probability scoring (<1s latency) 
+and analytics -driven retention insights.  
+Tech Stack:  Python, FastAPI, Scikit -Learn, XGBoost, Pandas  
+• Aviation Performance Analytics | Power BI Dashboard  | Dashboard                                                    Dec 25 
+• Analyzed 500K+ flight records to identify trends in passenger traffic, delays, route efficiency, 
+and airline performance using data modeling.  
+• Applied DAX and Power Query to detect peak congestion hours, high -delay airports, and 
+seasonal demand shifts.  
+• Built interactive Power BI dashboards reducing reporting effort by ~65% while enabling real -time KPI 
+tracking (on -time performance, load factor, cancellations, profitability).  
+Tech Stack:  Power BI, DAX, Power Query,  Data Modeling, Data Visualization, Business Intelligence  
+• YouTube Sentiment Analyzer with Multilingual Chatbot | GitHub  | Live                            Nov 25  
+• Engineered a multilingual sentiment analysis system for 10,000+ YouTube comments, achieving 
+~90% classification accuracy for Hindi and Hinglish text.  
+• Designed  a real -time Streamlit chatbot enabling sentiment -aware conversations and trend 
+summaries, reducing manual comment analysis time by ~80%.  
+• Constructed  transformer -based NLP pipelines to generate contextual summaries for 1K+ comments 
+per video.  
+Tech Stack:  Python, BERT, Hugging Face Transformers, Embeddings, Multilingual NLP  
+TRAINING  
+• AI-Powered Natural Language Processing | Alg oTutor | Certificate                             Jun 25 
+• Designed AI -based text processing workflows with prompt -driven automation and intelligent 
+form generation.  
+• Implemented web -integrated NLP pipelines using Transformers, Tokenization, Embeddings, 
+and Inference.  
+• Strengthened expertise in real -time text understanding and scalable Gen -AI form automation.  
+CERTIFICAT ES 
+     IBM Data Science Professional Certificate – Coursera  | Certificate                                                                      Aug 25 
+       AI-Powered N LP – AlgoTutor  | Certificate                                                                                                              Aug 25 
+       Cloud Computing – NPTEL | Certificate                                                                                                                 Apr 25 
+       Software Engineering: Implementation and Testing – Coursera I Certificate                                                         Apr 24 
+     Hack Quest – 24-Hour CTF Challenge – UpGrad Campus | Certificate                                         Apr 24 
+  EXTRA  - CURRICULAR ACTIVITIES  
+• Completed a 30 -day NGO community development program , contributing to social welfare, awareness 
+campaigns, and community engagement.                                                                                                 July 24  
+• Participated in a 24 -hour CTF hackathon , applying problem -solving and teamwork in a 
+competitive technical setting .  
+ EDUCATION  
+        Lovely  Professional  University                                                                                                                        Punjab, India 
+       Bachelor of Technology - Computer Science and Engineering ; CGPA: 8. 57                              Aug 2023 – Present  
+       Young Stream Academy    Barabanki, UP 
+       Intermediate; Percentage: 83%                                                                                                       Apr 20 20 - Mar 202 2 
+       Young Stream   Academy    Barabanki, UP  
+       Matriculation; Percentage: 88.17 %                                                                                                       Apr 20 18 - Mar 20 20  
+ 

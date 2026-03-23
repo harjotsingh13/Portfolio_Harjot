@@ -1,0 +1,2 @@
+﻿app/components/ProjectSection/MoreProjectsSection.tsx(7,33): error TS2307: Cannot find module '@/app/(site)/projects/ProjectsStatic' or its corresponding type declarations.
+app/components/ProjectSection/MoreProjectsSection.tsx(25,31): error TS7006: Parameter 'project' implicitly has an 'any' type.
