@@ -18,6 +18,7 @@ import Script from "next/script"
 import { Clarity } from "./components/ui/Clarity"
 import { ParticleBackground } from "./components/ui/ParticleBackground"
 import { Preloader } from "./components/Preloader"
+import { SmoothScrolling } from "./components/SmoothScroll"
 
 const switzer = localFont({
   src: "./fonts/Switzer-Variable.woff2",
@@ -38,15 +39,16 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
     <html lang="en" suppressHydrationWarning>
       <body {...bodyAttributes} className="relative min-w-[300px] bg-white transition-colors duration-300 dark:bg-[#000000] dark:text-[#E0E0E0]" data-mobile-menu="closed" data-scrolled="up">
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false}>
-          <MotionWrapper>
+          <SmoothScrolling>
+            <MotionWrapper>
           <Preloader />
           {/* <DesktopCursor /> */}
           <ViewTransitions />
 
-          <div className="custom:mx-auto xxs:mx-3.5 pointer-events-none absolute inset-0 z-1 max-w-6xl [background-image:url('/assets/framer-noise.png')] [background-size:128px] bg-repeat opacity-6 md:mx-5 lg:mx-8 dark:hidden" />
+          <div className="custom:mx-auto xxs:mx-3.5 pointer-events-none fixed inset-0 z-[1] max-w-6xl [background-image:url('/assets/framer-noise.png')] [background-size:128px] bg-repeat opacity-6 md:mx-5 lg:mx-8 dark:hidden" />
           
           {/* Dark mode animated background with glassmorphism glow */}
-          <div className="pointer-events-none absolute inset-0 z-0 hidden overflow-hidden dark:block">
+          <div className="pointer-events-none fixed inset-0 z-0 hidden overflow-hidden dark:block">
             <div className="absolute inset-0 bg-[#000000] opacity-40 [background-image:radial-gradient(#333_1px,transparent_1px)] [background-size:24px_24px]" />
             <div className="animate-pulse-slow absolute -top-[20%] -left-[10%] h-[60%] w-[60%] rounded-full bg-gradient-to-br from-gray-700/20 to-transparent blur-[120px]" />
             <div className="animate-pulse-slow delay-[2000ms] absolute top-[60%] right-[0%] h-[50%] w-[50%] rounded-full bg-gradient-to-tl from-gray-600/10 to-transparent blur-[100px]" />
@@ -70,6 +72,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             <ScrollToTop />
           </div>
         </MotionWrapper>
+        </SmoothScrolling>
         {process.env.NODE_ENV === "production" && (
           <>
             <Clarity />
