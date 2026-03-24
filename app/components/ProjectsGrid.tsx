@@ -68,7 +68,7 @@ export function ProjectsGrid({ className }: { className?: string }) {
 
   return (
     <section id="projects-grid" className={clsx("relative scroll-mt-36", className)} ref={ref}>
-      <div className="relative z-4 grid grid-cols-1 grid-rows-1 gap-4 md:grid-cols-2 md:grid-rows-2">
+      <div className="relative z-4 mx-auto grid max-w-[1000px] grid-cols-1 grid-rows-1 gap-6 md:grid-cols-2 md:grid-rows-2 md:gap-10">
         <AnimatedCard
           key={"churnguard-ai"}
           src={iaoPreview}

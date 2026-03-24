@@ -40,14 +40,19 @@ export const AboutSectionV2 = ({ className = "" }: { className?: string }) => {
           {/* ---------------- right column ---------------- */}
           <Typography as="article" size="lg" className="[flex:1.5_0_0px] space-y-8 text-slate-500 dark:text-gray-300 transition-colors duration-300">
             <p>
-              <strong className="font-semibold text-slate-900 dark:text-white transition-colors duration-300">I am a Computer Science Engineering student</strong> with a strong focus on AI, Machine Learning, and Data Science. I specialize in building end-to-end intelligent systems, from data preprocessing and feature engineering to model deployment and API integration.
+              <strong className="font-semibold text-slate-900 dark:text-white transition-colors duration-300">Focused on building intelligent, real-world solutions</strong> using AI, Machine Learning, and Data Science, with experience across the full development pipeline—from data processing to model deployment.
             </p>
 
             <p>
-              <strong className="font-semibold text-slate-900 dark:text-white transition-colors duration-300">I have hands-on experience</strong> in developing scalable machine learning solutions, real-time analytics systems, and NLP-based applications. My work focuses on solving real-world problems using data-driven decision-making, predictive modeling, and automation.
+              <strong className="font-semibold text-slate-900 dark:text-white transition-colors duration-300">Experienced in developing scalable, data-driven applications</strong> with a strong emphasis on clean code, structured thinking, and efficient system design.
             </p>
+
             <p>
-              <strong className="font-semibold text-slate-900 dark:text-white transition-colors duration-300">My core philosophy is impact</strong>. Every model I build, every pipeline I design, is driven by the goal of creating measurable, real-world value.
+              <strong className="font-semibold text-slate-900 dark:text-white transition-colors duration-300">Driven by impact</strong>, with a focus on creating meaningful, measurable value through technology.
+            </p>
+
+            <p>
+              <strong className="font-semibold text-slate-900 dark:text-white transition-colors duration-300">Alongside development</strong>, actively practicing Data Structures and Algorithms on LeetCode to continuously strengthen problem-solving and coding efficiency.
             </p>
 
 

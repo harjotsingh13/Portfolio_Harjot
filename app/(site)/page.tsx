@@ -2,6 +2,7 @@ import { HeroV2 } from "../components/HeroV2"
 import { ProjectsSection } from "../components/ProjectsSection"
 import { AboutSectionV2 } from "../components/AboutSectionV2"
 import { ServicesSectionV2 } from "../components/ServicesSectionV2"
+import { ProblemSolvingSection } from "../components/ProblemSolvingSection"
 import { EducationSection } from "../components/EducationSection"
 import { TrainingSection } from "../components/TrainingSection"
 import { CertificatesSection } from "../components/CertificatesSection"
@@ -52,6 +53,7 @@ const PortfolioPage: React.FC = () => {
       <ProjectsSection />
       <AboutSectionV2 />
       <ServicesSectionV2 />
+      <ProblemSolvingSection />
       <TrainingSection />
       <CertificatesSection />
       <ActivitiesSection />

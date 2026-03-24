@@ -73,7 +73,7 @@ export function AnimatedCard({ src, alt, offset, color, type, gridId, progress, 
           }
           className={clsx("group relative h-full w-full transform-gpu opacity-1 will-change-[transform,opacity] contain-content backface-hidden")}
         >
-          <Card src={src} alt={alt} color={color} type={type} text={dataText} label={label} />
+          <Card src={src} alt={alt} color={color} type={type} text={dataText} label={title || label} />
         </div>
       </div>
 

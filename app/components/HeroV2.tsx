@@ -10,7 +10,7 @@ export const HeroV2 = () => {
         <div className="flex max-w-lg flex-col gap-8 md:min-w-sm">
 
 
-          <h1 className="xs:text-6xl relative z-5 text-5xl leading-[1] font-bold tracking-tight text-slate-900 dark:text-white transition-colors duration-300 sm:text-7xl lg:text-8xl">
+          <h1 className="xs:text-7xl relative z-5 text-6xl leading-[1] font-extrabold tracking-tight text-slate-900 dark:text-white transition-colors duration-300 sm:text-8xl lg:text-9xl">
             <AnimatedElement element="span" offsetPx={20} fadeDirection="left" className="inline-block">
               Harjot
             </AnimatedElement>{" "}
@@ -20,15 +20,11 @@ export const HeroV2 = () => {
             </AnimatedElement>
           </h1>
 
-          <AnimatedElement element="p" delay={0.6} className="max-w-xs text-sm leading-snug tracking-tight text-slate-700 dark:text-gray-400 transition-colors duration-300 md:max-w-sm md:pr-4 md:text-base">
-            <strong className="font-semibold text-slate-900 dark:text-gray-200 transition-colors duration-300">Computer Science Student specializing in AI &amp; Data Science.</strong> Building real-world ML systems and data-driven solutions. Focused on{" "}
-            <a href="https://github.com/harjotsingh13" target="_blank" rel="noopener" className="font-semibold text-slate-900 dark:text-gray-200 transition-colors duration-300">
-              scalable APIs
-            </a>
-            , predictive modeling, and{" "}
-            <a href="https://www.linkedin.com/in/harjot19/" target="_blank" rel="noopener" className="font-semibold text-slate-900 dark:text-gray-200 transition-colors duration-300">
-              intelligent automation
-            </a>
+          <AnimatedElement element="p" delay={0.6} className="max-w-xs text-sm leading-snug tracking-tight text-slate-500 dark:text-gray-400 font-light transition-colors duration-300 md:max-w-sm md:pr-4 md:text-base">
+            Building intelligent systems using AI, Machine Learning, and Data Science.
+            <br />
+            <br />
+            Focused on scalable solutions, predictive modeling, and real-world impact.
           </AnimatedElement>
 
           <CallToActionButton />

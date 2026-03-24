@@ -17,8 +17,10 @@ export const RecruiterContact: React.FC = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ type: "spring", stiffness: 100, damping: 14 }}
           viewport={{ once: true, amount: 0.5 }}
-          className="group relative z-1 mx-auto flex w-full max-w-2xl flex-col items-center gap-8 rounded-2xl border border-gray-300 dark:border-white/10 bg-white dark:bg-[#111] p-5.5 max-lg:text-center max-sm:px-1 sm:p-8 transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_20px_50px_-15px_rgba(0,0,0,0.2)] dark:hover:shadow-[0_20px_50px_-15px_rgba(255,255,255,0.1)] hover:border-indigo-500/30"
+          className="group relative z-1 mx-auto flex w-full max-w-2xl flex-col items-center gap-8 rounded-[2rem] border border-gray-300 dark:border-white/10 bg-white/90 dark:bg-[#111]/90 backdrop-blur-xl shadow-2xl dark:shadow-[0_0_20px_rgba(255,255,255,0.03)] p-5.5 max-lg:text-center max-sm:px-1 sm:p-10 transition-all duration-500 hover:-translate-y-4 hover:scale-105 hover:shadow-[0_0_60px_rgba(99,102,241,0.4)] dark:hover:shadow-[0_0_60px_rgba(99,102,241,0.4)] hover:border-indigo-400 dark:hover:border-indigo-500"
         >
+          {/* Glowing background blob */}
+          <div className="absolute -inset-1 rounded-[2rem] bg-gradient-to-r from-indigo-500 via-purple-500 to-indigo-500 opacity-0 blur-xl transition-opacity duration-500 group-hover:opacity-30 pointer-events-none -z-10" />
           <div className="flex w-fit items-center gap-3 p-2 max-lg:justify-center">
             <div className="relative h-12 w-12 overflow-hidden rounded-full ring-4 ring-slate-200 dark:ring-[#333] transition-all duration-500 group-hover:scale-110 group-hover:ring-indigo-500">
               <Image src={profilePhoto} alt="Harjot Singh" fill sizes="80px" className="object-cover object-top" />
