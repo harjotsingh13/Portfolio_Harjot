@@ -17,7 +17,7 @@ export const Link: React.FC<NextLinkProps & { children: React.ReactNode; classNa
     if (typeof props.href === "string" && props.href.startsWith("/#")) {
       const id = props.href.replace("/", "")
       if (typeof window !== "undefined" && window.location.pathname === "/") {
-        const element = document.querySelector(id)
+        const element = document.querySelector(id) as HTMLElement | null
         if (element) {
           e.preventDefault()
           lenis?.scrollTo(element, { offset: -80 })
