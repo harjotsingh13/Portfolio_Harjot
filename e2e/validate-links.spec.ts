@@ -43,7 +43,7 @@ async function getAllLinksFromPage(page: Page) {
 
 for (const pageUrl of ALL_PAGES) {
   test(`Validate links on ${pageUrl}`, async ({ page }) => {
-    await page.goto(pageUrl)
+    await page.goto(SITE_CONFIG.url + pageUrl)
     const linkUrls = await getAllLinksFromPage(page)
 
     for (const url of linkUrls) {

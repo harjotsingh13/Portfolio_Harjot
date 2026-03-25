@@ -20,7 +20,7 @@ async function getAllImagesFromPage(page: Page) {
 
 test("Validate images", async ({ page }) => {
   for (const pageUrl of ALL_PAGES) {
-    await page.goto(pageUrl)
+    await page.goto(SITE_CONFIG.url + pageUrl)
     const imageUrls = await getAllImagesFromPage(page)
 
     for (const url of imageUrls) {

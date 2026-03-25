@@ -172,7 +172,7 @@ const certificates = [
   { 
     name: "Generative AI", 
     issuer: "Infosys", 
-    date: "Aug 2025",
+    date: "Apr 2024",
     color: "#f59e0b",
     link: "https://drive.google.com/file/d/1sJAV6jHKIZqGsIykJnxbObNCg1Ck7s9V/view?usp=sharing",
     Icon: GenAIIcon,
