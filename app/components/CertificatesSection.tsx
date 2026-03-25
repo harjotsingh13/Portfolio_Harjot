@@ -144,7 +144,7 @@ const certificates = [
     issuer: "Coursera", 
     date: "Apr 2024",
     color: "#4f46e5",
-    link: "https://drive.google.com/file/d/18ItCDSHYRFwB0b9sc25_jPz_yDuOnjnn/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1ecclGyI7aE441VIaCBDSh9fC0qGOzj2f/view?usp=sharing",
     Icon: SoftwareIcon,
     bullets: [
       "Learned software development lifecycle (SDLC) and system design principles",
@@ -172,7 +172,7 @@ const certificates = [
   { 
     name: "Generative AI", 
     issuer: "Infosys", 
-    date: "Apr 2024",
+    date: "Aug 2025",
     color: "#f59e0b",
     link: "https://drive.google.com/file/d/1sJAV6jHKIZqGsIykJnxbObNCg1Ck7s9V/view?usp=sharing",
     Icon: GenAIIcon,
