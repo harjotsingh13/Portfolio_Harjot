@@ -1,0 +1,544 @@
+
+Running 36 tests using 6 workers
+
+[1A[2K[1/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#contact page correctly
+[1A[2K[2/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#training page correctly
+[1A[2K[3/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#about page correctly
+[1A[2K[4/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#projects page correctly
+[1A[2K  1) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#contact page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[5/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load / page correctly
+[1A[2K[6/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#technologies page correctly
+[1A[2K  2) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#training page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  3) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#about page correctly ─
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  4) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#projects page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  5) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load / page correctly ───────
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  6) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#technologies page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[7/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#certificates page correctly
+[1A[2K[8/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#education page correctly
+[1A[2K[9/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#activities page correctly
+[1A[2K  7) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#certificates page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[10/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/churnguard-ai page correctly
+[1A[2K  8) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#activities page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  9) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#education page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  10) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/churnguard-ai page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[11/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/youtube-sentiment page correctly
+[1A[2K[12/36] [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/aviation-analytics page correctly
+[1A[2K  11) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/youtube-sentiment page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  12) [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/aviation-analytics page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\chromium_headless_shell-1200\chrome-headless-shell-win64\chrome-headless-shell.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[13/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load / page correctly
+[1A[2K[14/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#projects page correctly
+[1A[2K  13) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#projects page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  14) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load / page correctly ───────
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[15/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#about page correctly
+[1A[2K[16/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#contact page correctly
+[1A[2K  15) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#about page correctly ─
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  16) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#contact page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[17/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#technologies page correctly
+[1A[2K[18/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#training page correctly
+[1A[2K  17) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#technologies page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  18) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#training page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[19/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#certificates page correctly
+[1A[2K[20/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#activities page correctly
+[1A[2K  19) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#certificates page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  20) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#activities page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[21/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/churnguard-ai page correctly
+[1A[2K[22/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#education page correctly
+[1A[2K  21) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/churnguard-ai page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  22) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#education page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[23/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/youtube-sentiment page correctly
+[1A[2K[24/36] [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/aviation-analytics page correctly
+[1A[2K  23) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/youtube-sentiment page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  24) [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/aviation-analytics page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\firefox-1497\firefox\firefox.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[25/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load / page correctly
+[1A[2K[26/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#projects page correctly
+[1A[2K  25) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load / page correctly ────────
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[27/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#contact page correctly
+[1A[2K  26) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#projects page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  27) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#contact page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[28/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#about page correctly
+[1A[2K  28) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#about page correctly ──
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[29/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#training page correctly
+[1A[2K[30/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#technologies page correctly
+[1A[2K  29) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#training page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  30) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#technologies page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[31/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#certificates page correctly
+[1A[2K[32/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#activities page correctly
+[1A[2K  31) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#certificates page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  32) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#activities page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[33/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#education page correctly
+[1A[2K  33) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#education page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[34/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/churnguard-ai page correctly
+[1A[2K  34) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/churnguard-ai page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[35/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/youtube-sentiment page correctly
+[1A[2K[36/36] [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/aviation-analytics page correctly
+[1A[2K  35) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/youtube-sentiment page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  36) [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/aviation-analytics page correctly 
+
+    Error: browserType.launch: Executable doesn't exist at C:\Users\HARJOT\AppData\Local\ms-playwright\webkit-2227\Playwright.exe
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  36 failed
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load / page correctly ────────
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#projects page correctly 
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#contact page correctly 
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#about page correctly ──
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#technologies page correctly 
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#training page correctly 
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#certificates page correctly 
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#activities page correctly 
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#education page correctly 
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/churnguard-ai page correctly 
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/aviation-analytics page correctly 
+    [chromium] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/youtube-sentiment page correctly 
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load / page correctly ─────────
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#projects page correctly 
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#contact page correctly ─
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#about page correctly ───
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#technologies page correctly 
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#training page correctly 
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#certificates page correctly 
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#activities page correctly 
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#education page correctly 
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/churnguard-ai page correctly 
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/aviation-analytics page correctly 
+    [firefox] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/youtube-sentiment page correctly 
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load / page correctly ──────────
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#projects page correctly ─
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#contact page correctly ──
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#about page correctly ────
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#technologies page correctly 
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#training page correctly ─
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#certificates page correctly 
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#activities page correctly 
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /#education page correctly 
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/churnguard-ai page correctly 
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/aviation-analytics page correctly 
+    [webkit] › e2e\page-load.spec.ts:5:5 › Page load tests › should load /projects/youtube-sentiment page correctly 
